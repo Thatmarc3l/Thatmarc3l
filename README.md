@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Thatmarc3l
-- Developer
-- Ive codet Objektrechner
